@@ -89,3 +89,4 @@ ___
 ## Technologies Used
 ___
 # Acknowledgements
+I would like to thank the Code Institute team and the Slack community. I would also like to extend my thanks to my mentor, Okwudiri Okoro, for his guidance and management of the project.
