@@ -11,27 +11,3 @@ body {
     font-family: 'Lora', sans-serif;
     color: #000000
 }
-
-header{
-    height: 80vh;
-    background-size: cover;
-    background: url(assets/img/dday-boat.jpg);
-    background-repeat: no-repeat;
-}
-
-h1 {
-    font-family: 'Lora';
-    text-transform: uppercase;
-    letter-spacing: 4px;
-}
-
-h2 {
-    font-family: PT Mono;
-}
-
-nav {
-    display: flex;
-    padding: 2% 6%;
-    justify-content: space-between;
-    align-items: right;
-}

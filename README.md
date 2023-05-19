@@ -47,6 +47,7 @@ ___
 # Features
 
 ## Navigation Bar
+The site features a navigation bar that responds to the user when each item is hovered over with the mouse. 
 
 ## Landing Content
 
@@ -89,4 +90,4 @@ ___
 ## Technologies Used
 ___
 # Acknowledgements
-I would like to thank the Code Institute team and the Slack community. I would also like to extend my thanks to my mentor, Okwudiri Okoro, for his guidance and management of the project.
+I would like to thank the Code Institute team and the Slack community. I would also like to extend my thanks to my mentor, Okwudiri Okoro, for his guidance and management of the project. He helped me to add/cut content to ensure the project met the high standards required and was delivered on-time. 
