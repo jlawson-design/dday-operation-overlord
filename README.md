@@ -76,6 +76,7 @@ ___
 # Testing
 ___
 # Bug Fixing
+One bug that occured early on in the project creation was updating the site styling through the stylesheet. 
 
 ## Resolved
 
